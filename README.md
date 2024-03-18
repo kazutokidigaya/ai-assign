@@ -24,7 +24,7 @@ for `frontend` open a new terminal and paste the following commands:
 
 we are using
 
-PyMuPDF - extracting text from uploaded pdf
+PyMuPDF,python-docx, pandas - extracting text from uploaded file for CSV, Docx,txt & PDF format
 openai - model gpt-3.5-turbo for response generation
 uvicorn - to run our server locally without the need to reload after doing any change in our code
 
