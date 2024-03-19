@@ -12,13 +12,15 @@ for `backend` open a new terminal and paste the following commands:
 
 1.  cd backend
 2.  pip install -r requirements.txt
-3.  uvicorn main:app --reload
+3.  create a .env file 
+4.  inside env specify your OpenAI key :  OPENAI_API_KEY="####Your-KEY####"
+5.  uvicorn main:app --reload
 
 for `frontend` open a new terminal and paste the following commands:
 
 1.  cd frontend
 2.  npm i
-3.  npm run start
+4.  npm run start
 
 ## Backend dependencies:
 
