@@ -4,7 +4,7 @@
 
 https://github.com/kazutokidigaya/ai-assign.git
 
-## Install dependencies:
+## Run Locally WorkFlow:
 
 In this project you find 2 directories `backend` & `frontend`
 
